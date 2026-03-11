@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CodingPractice-01\CodingPractice-01.csproj" />
+  <Project Path="CodingPractice-02\CodingPractice-02.csproj" />
+  <Project Path="CodingPractice-03\CodingPractice-03.csproj" />
+  <Project Path="TupleBasic\TupleBasic.csproj" />
+  <Project Path="TupleInventory\TupleInventory.csproj" />
+</Solution>
